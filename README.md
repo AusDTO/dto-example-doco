@@ -18,7 +18,7 @@ Please copy and paste, and flavour to taste.
 
 - `jekyll` for our alpha prototyping toolkit
 
-# Beta
+# Beta + Live
 
 - `rails` for projects written in Ruby on Rails
 - `go` for projects written in Go
