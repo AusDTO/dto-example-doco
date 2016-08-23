@@ -25,6 +25,8 @@ Alpha is about sketching out how users interact with the system. There is no bac
 
 We typically throw away any code written between Alpha and Beta.
 
+You can read more about the process on the [Alpha Service Handbook](http://ausdto.github.io/service-handbook/alpha/).
+
 ## Requirements
 
 * [Ruby](https://www.ruby-lang.org/en/) - v2.3.1
