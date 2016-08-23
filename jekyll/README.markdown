@@ -1,10 +1,10 @@
-# <dash-separated-repo-name>
+# `<dash-separated-repo-name>`
 
 ![CircleCI build status](https://circleci.com/gh/AusDTO/gov-au-transitions-alpha.svg?style=shield)
 
 `<dash-separated-repo-name>` is a collection of prototypes for how we could meet user needs under the `<name>` programme of works.
 
-It does not represent final technology choices or commitments.
+**No content in this repository represents final technology choices or commitments.**
 
 ## Background
 
@@ -39,7 +39,7 @@ Set up environment & install dependencies:
 $ bin/setup.sh
 ```
 
-Serve site locally at http://localhost:4000/
+Serve site locally at [http://localhost:4000/](http://localhost:4000/)
 
 ```
 $ bundle exec jekyll serve
