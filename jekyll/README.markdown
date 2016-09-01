@@ -21,7 +21,7 @@ It's crucial during the Alpha phase that delivery teams can focus on exploring i
 
 We prototype with HTML, CSS, and JavaScript. To provide a little bit of structure to teams when building the Alpha, we use Jekyll (a static site generator) and deploy to [cloud.gov.au](http://docs.cloud.gov.au/).
 
-Alpha is about sketching out how users interact with the system. There is no backend code written during Alpha. Any references to particular technologies are purely for prototyping purposes, to test a hypothesis. Any references to technology do not represent decisions, commitments, or implementation choices for building the actual system in the Beta and Live.
+Alpha is about sketching out how users interact with the system. There is no backend code written during Alpha. Any references to particular technologies are purely for prototyping purposes, to test a hypothesis. Any references to technology do not represent decisions, commitments, or implementation choices for building the actual system in the Beta and Live. It is most likely that information and content used within our Alpha's is not real, fact-checked Government policy or information.
 
 We typically throw away any code written between Alpha and Beta.
 
